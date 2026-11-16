@@ -1,0 +1,741 @@
+{
+ "actualizado": "2026-11-16T13:27:00.000Z",
+ "estado": "provisionales",
+ "competicion": "XLII JUEGOS DEPORTIVOS MUNICIPALES 2026-2027",
+ "equipo": "C.D.MANANTIAL PROMESAS - A",
+ "apodo": "Manantial Promesas A",
+ "deporte": "FUTBOL SIETE",
+ "categoria": "INFANTIL MIXTO",
+ "distrito": "ESTE",
+ "grupo": "E-01",
+ "calendario": [
+  {
+   "jornada": 1,
+   "partidos": [
+    {
+     "fecha": "2026-11-06",
+     "hora": "20:00",
+     "local": "CD MADRE DE DIOS B",
+     "visitante": "UD.MANANTIAL",
+     "resultado": "8-0",
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 3-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2026-11-06",
+     "hora": "19:00",
+     "local": "ANDALUCIA ESTE CF",
+     "visitante": "CD RECREATIVO ALCOSA",
+     "resultado": "5-3",
+     "lugar": "CD. ANDALUCIA ESTE F7 PISTA 1-C/ MIGUEL RIOS SARMIENTO,S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2026-11-07",
+     "hora": "10:00",
+     "local": "C.D.MANANTIAL PROMESAS - A",
+     "visitante": "C.D.MANANTIAL PROMESAS - B",
+     "resultado": "5-4",
+     "lugar": "CD. SENDAI F7 - CESPED 2-C/ HIROSHIMA,S/N (SEVILLA ESTE)",
+     "obs": "SABADO",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2026-11-06",
+     "hora": "19:00",
+     "local": "CF.POLIDEPORTIVO ALCOSA",
+     "visitante": "CD MADRE DE DIOS",
+     "resultado": "2-1",
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 2-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    }
+   ]
+  },
+  {
+   "jornada": 2,
+   "partidos": [
+    {
+     "fecha": "2026-11-13",
+     "hora": "18:30",
+     "local": "UD.MANANTIAL",
+     "visitante": "CF.POLIDEPORTIVO ALCOSA",
+     "resultado": "1-3",
+     "lugar": "CD. SENDAI F7 - CESPED 1-C/ HIROSHIMA S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2026-11-13",
+     "hora": "20:00",
+     "local": "CD RECREATIVO ALCOSA",
+     "visitante": "CD MADRE DE DIOS B",
+     "resultado": "5-4",
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 4-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2026-11-15",
+     "hora": "09:00",
+     "local": "C.D.MANANTIAL PROMESAS - B",
+     "visitante": "ANDALUCIA ESTE CF",
+     "resultado": "5-5",
+     "lugar": "CD. SENDAI F7 - CESPED 2-C/ HIROSHIMA,S/N (SEVILLA ESTE)",
+     "obs": "DOMINGO",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2026-11-13",
+     "hora": "20:00",
+     "local": "CD MADRE DE DIOS",
+     "visitante": "C.D.MANANTIAL PROMESAS - A",
+     "resultado": "7-1",
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 3-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    }
+   ]
+  },
+  {
+   "jornada": 3,
+   "partidos": [
+    {
+     "fecha": "2026-11-20",
+     "hora": "19:00",
+     "local": "ANDALUCIA ESTE CF",
+     "visitante": "CD MADRE DE DIOS",
+     "resultado": null,
+     "lugar": "CD. ANDALUCIA ESTE F7 PISTA 1-C/ MIGUEL RIOS SARMIENTO,S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2026-11-20",
+     "hora": "18:00",
+     "local": "CF.POLIDEPORTIVO ALCOSA",
+     "visitante": "C.D.MANANTIAL PROMESAS - A",
+     "resultado": null,
+     "lugar": "C.D. ALCOSA F7 CESPED PISTA C-AVDA. SENECA S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2026-11-20",
+     "hora": "20:00",
+     "local": "CD MADRE DE DIOS B",
+     "visitante": "C.D.MANANTIAL PROMESAS - B",
+     "resultado": null,
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 3-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2026-11-20",
+     "hora": "18:30",
+     "local": "UD.MANANTIAL",
+     "visitante": "CD RECREATIVO ALCOSA",
+     "resultado": null,
+     "lugar": "CD. SENDAI F7 - CESPED 1-C/ HIROSHIMA S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    }
+   ]
+  },
+  {
+   "jornada": 4,
+   "partidos": [
+    {
+     "fecha": "2026-11-27",
+     "hora": "20:00",
+     "local": "CD MADRE DE DIOS",
+     "visitante": "CD MADRE DE DIOS B",
+     "resultado": null,
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 3-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2026-11-27",
+     "hora": "18:30",
+     "local": "C.D.MANANTIAL PROMESAS - B",
+     "visitante": "UD.MANANTIAL",
+     "resultado": null,
+     "lugar": "CD. SENDAI F7 - CESPED 2-C/ HIROSHIMA,S/N (SEVILLA ESTE)",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2026-11-28",
+     "hora": "10:00",
+     "local": "C.D.MANANTIAL PROMESAS - A",
+     "visitante": "ANDALUCIA ESTE CF",
+     "resultado": null,
+     "lugar": "CD. SENDAI F7 - CESPED 2-C/ HIROSHIMA,S/N (SEVILLA ESTE)",
+     "obs": "SABADO",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2026-11-27",
+     "hora": "20:00",
+     "local": "CD RECREATIVO ALCOSA",
+     "visitante": "CF.POLIDEPORTIVO ALCOSA",
+     "resultado": null,
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 4-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    }
+   ]
+  },
+  {
+   "jornada": 5,
+   "partidos": [
+    {
+     "fecha": "2026-12-11",
+     "hora": "18:30",
+     "local": "UD.MANANTIAL",
+     "visitante": "CD MADRE DE DIOS",
+     "resultado": null,
+     "lugar": "CD. SENDAI F7 - CESPED 1-C/ HIROSHIMA S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2026-12-11",
+     "hora": "20:00",
+     "local": "CD MADRE DE DIOS B",
+     "visitante": "C.D.MANANTIAL PROMESAS - A",
+     "resultado": null,
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 3-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2026-12-12",
+     "hora": "13:00",
+     "local": "CF.POLIDEPORTIVO ALCOSA",
+     "visitante": "ANDALUCIA ESTE CF",
+     "resultado": null,
+     "lugar": "C.D. ALCOSA F7 CESPED PISTA C-AVDA. SENECA S/N",
+     "obs": "SABADO",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2026-12-11",
+     "hora": "17:00",
+     "local": "CD RECREATIVO ALCOSA",
+     "visitante": "C.D.MANANTIAL PROMESAS - B",
+     "resultado": null,
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 4-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    }
+   ]
+  },
+  {
+   "jornada": 6,
+   "partidos": [
+    {
+     "fecha": "2026-12-19",
+     "hora": "11:00",
+     "local": "CF.POLIDEPORTIVO ALCOSA",
+     "visitante": "C.D.MANANTIAL PROMESAS - B",
+     "resultado": null,
+     "lugar": "C.D. ALCOSA F7 CESPED PISTA C-AVDA. SENECA S/N",
+     "obs": "SABADO",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2026-12-19",
+     "hora": "10:00",
+     "local": "C.D.MANANTIAL PROMESAS - A",
+     "visitante": "UD.MANANTIAL",
+     "resultado": null,
+     "lugar": "CD. SENDAI F7 - CESPED 2-C/ HIROSHIMA,S/N (SEVILLA ESTE)",
+     "obs": "SABADO",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2026-12-18",
+     "hora": "19:00",
+     "local": "ANDALUCIA ESTE CF",
+     "visitante": "CD MADRE DE DIOS B",
+     "resultado": null,
+     "lugar": "CD. ANDALUCIA ESTE F7 PISTA 1-C/ MIGUEL RIOS SARMIENTO,S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2026-12-18",
+     "hora": "20:00",
+     "local": "CD MADRE DE DIOS",
+     "visitante": "CD RECREATIVO ALCOSA",
+     "resultado": null,
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 3-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    }
+   ]
+  },
+  {
+   "jornada": 7,
+   "partidos": [
+    {
+     "fecha": "2027-01-08",
+     "hora": "20:00",
+     "local": "CD RECREATIVO ALCOSA",
+     "visitante": "C.D.MANANTIAL PROMESAS - A",
+     "resultado": null,
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 4-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-01-08",
+     "hora": "20:00",
+     "local": "CD MADRE DE DIOS B",
+     "visitante": "CF.POLIDEPORTIVO ALCOSA",
+     "resultado": null,
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 3-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-01-08",
+     "hora": "18:30",
+     "local": "UD.MANANTIAL",
+     "visitante": "ANDALUCIA ESTE CF",
+     "resultado": null,
+     "lugar": "CD. SENDAI F7 - CESPED 1-C/ HIROSHIMA S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-01-08",
+     "hora": "18:30",
+     "local": "C.D.MANANTIAL PROMESAS - B",
+     "visitante": "CD MADRE DE DIOS",
+     "resultado": null,
+     "lugar": "CD. SENDAI F7 - CESPED 2-C/ HIROSHIMA,S/N (SEVILLA ESTE)",
+     "obs": "VIERNES",
+     "obsResultado": null
+    }
+   ]
+  },
+  {
+   "jornada": 8,
+   "partidos": [
+    {
+     "fecha": "2027-01-15",
+     "hora": "18:30",
+     "local": "UD.MANANTIAL",
+     "visitante": "CD MADRE DE DIOS B",
+     "resultado": null,
+     "lugar": "CD. SENDAI F7 - CESPED 1-C/ HIROSHIMA S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-01-15",
+     "hora": "20:00",
+     "local": "CD RECREATIVO ALCOSA",
+     "visitante": "ANDALUCIA ESTE CF",
+     "resultado": null,
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 4-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-01-15",
+     "hora": "18:30",
+     "local": "C.D.MANANTIAL PROMESAS - B",
+     "visitante": "C.D.MANANTIAL PROMESAS - A",
+     "resultado": null,
+     "lugar": "CD. SENDAI F7 - CESPED 2-C/ HIROSHIMA,S/N (SEVILLA ESTE)",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-01-15",
+     "hora": "20:00",
+     "local": "CD MADRE DE DIOS",
+     "visitante": "CF.POLIDEPORTIVO ALCOSA",
+     "resultado": null,
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 3-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    }
+   ]
+  },
+  {
+   "jornada": 9,
+   "partidos": [
+    {
+     "fecha": "2027-01-22",
+     "hora": "18:00",
+     "local": "CF.POLIDEPORTIVO ALCOSA",
+     "visitante": "UD.MANANTIAL",
+     "resultado": null,
+     "lugar": "C.D. ALCOSA F7 CESPED PISTA C-AVDA. SENECA S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-01-22",
+     "hora": "20:00",
+     "local": "CD MADRE DE DIOS B",
+     "visitante": "CD RECREATIVO ALCOSA",
+     "resultado": null,
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 3-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-01-22",
+     "hora": "19:00",
+     "local": "ANDALUCIA ESTE CF",
+     "visitante": "C.D.MANANTIAL PROMESAS - B",
+     "resultado": null,
+     "lugar": "CD. ANDALUCIA ESTE F7 PISTA 1-C/ MIGUEL RIOS SARMIENTO,S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-01-23",
+     "hora": "10:00",
+     "local": "C.D.MANANTIAL PROMESAS - A",
+     "visitante": "CD MADRE DE DIOS",
+     "resultado": null,
+     "lugar": "CD. SENDAI F7 - CESPED 2-C/ HIROSHIMA,S/N (SEVILLA ESTE)",
+     "obs": "SABADO",
+     "obsResultado": null
+    }
+   ]
+  },
+  {
+   "jornada": 10,
+   "partidos": [
+    {
+     "fecha": "2027-02-05",
+     "hora": "20:00",
+     "local": "CD MADRE DE DIOS",
+     "visitante": "ANDALUCIA ESTE CF",
+     "resultado": null,
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 3-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-02-06",
+     "hora": "10:00",
+     "local": "C.D.MANANTIAL PROMESAS - A",
+     "visitante": "CF.POLIDEPORTIVO ALCOSA",
+     "resultado": null,
+     "lugar": "CD. SENDAI F7 - CESPED 2-C/ HIROSHIMA,S/N (SEVILLA ESTE)",
+     "obs": "SABADO",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-02-05",
+     "hora": "18:30",
+     "local": "C.D.MANANTIAL PROMESAS - B",
+     "visitante": "CD MADRE DE DIOS B",
+     "resultado": null,
+     "lugar": "CD. SENDAI F7 - CESPED 2-C/ HIROSHIMA,S/N (SEVILLA ESTE)",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-02-05",
+     "hora": "19:00",
+     "local": "CD RECREATIVO ALCOSA",
+     "visitante": "UD.MANANTIAL",
+     "resultado": null,
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 4-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    }
+   ]
+  },
+  {
+   "jornada": 11,
+   "partidos": [
+    {
+     "fecha": "2027-02-12",
+     "hora": "20:00",
+     "local": "CD MADRE DE DIOS B",
+     "visitante": "CD MADRE DE DIOS",
+     "resultado": null,
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 3-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-02-12",
+     "hora": "18:30",
+     "local": "UD.MANANTIAL",
+     "visitante": "C.D.MANANTIAL PROMESAS - B",
+     "resultado": null,
+     "lugar": "CD. SENDAI F7 - CESPED 1-C/ HIROSHIMA S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-02-12",
+     "hora": "19:00",
+     "local": "ANDALUCIA ESTE CF",
+     "visitante": "C.D.MANANTIAL PROMESAS - A",
+     "resultado": null,
+     "lugar": "CD. ANDALUCIA ESTE F7 PISTA 1-C/ MIGUEL RIOS SARMIENTO,S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-02-12",
+     "hora": "19:00",
+     "local": "CF.POLIDEPORTIVO ALCOSA",
+     "visitante": "CD RECREATIVO ALCOSA",
+     "resultado": null,
+     "lugar": "C.D. ALCOSA F7 CESPED PISTA C-AVDA. SENECA S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    }
+   ]
+  },
+  {
+   "jornada": 12,
+   "partidos": [
+    {
+     "fecha": "2027-02-19",
+     "hora": "20:00",
+     "local": "CD MADRE DE DIOS",
+     "visitante": "UD.MANANTIAL",
+     "resultado": null,
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 3-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-02-20",
+     "hora": "10:00",
+     "local": "C.D.MANANTIAL PROMESAS - A",
+     "visitante": "CD MADRE DE DIOS B",
+     "resultado": null,
+     "lugar": "CD. SENDAI F7 - CESPED 2-C/ HIROSHIMA,S/N (SEVILLA ESTE)",
+     "obs": "SABADO",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-02-19",
+     "hora": "19:00",
+     "local": "ANDALUCIA ESTE CF",
+     "visitante": "CF.POLIDEPORTIVO ALCOSA",
+     "resultado": null,
+     "lugar": "CD. ANDALUCIA ESTE F7 PISTA 1-C/ MIGUEL RIOS SARMIENTO,S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-02-19",
+     "hora": "18:30",
+     "local": "C.D.MANANTIAL PROMESAS - B",
+     "visitante": "CD RECREATIVO ALCOSA",
+     "resultado": null,
+     "lugar": "CD. SENDAI F7 - CESPED 2-C/ HIROSHIMA,S/N (SEVILLA ESTE)",
+     "obs": "VIERNES",
+     "obsResultado": null
+    }
+   ]
+  },
+  {
+   "jornada": 13,
+   "partidos": [
+    {
+     "fecha": "2027-03-05",
+     "hora": "18:30",
+     "local": "C.D.MANANTIAL PROMESAS - B",
+     "visitante": "CF.POLIDEPORTIVO ALCOSA",
+     "resultado": null,
+     "lugar": "CD. SENDAI F7 - CESPED 2-C/ HIROSHIMA,S/N (SEVILLA ESTE)",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-03-05",
+     "hora": "18:30",
+     "local": "UD.MANANTIAL",
+     "visitante": "C.D.MANANTIAL PROMESAS - A",
+     "resultado": null,
+     "lugar": "CD. SENDAI F7 - CESPED 1-C/ HIROSHIMA S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-03-05",
+     "hora": "20:00",
+     "local": "CD MADRE DE DIOS B",
+     "visitante": "ANDALUCIA ESTE CF",
+     "resultado": null,
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 3-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-03-05",
+     "hora": "20:00",
+     "local": "CD RECREATIVO ALCOSA",
+     "visitante": "CD MADRE DE DIOS",
+     "resultado": null,
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 4-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    }
+   ]
+  },
+  {
+   "jornada": 14,
+   "partidos": [
+    {
+     "fecha": "2027-03-13",
+     "hora": "10:00",
+     "local": "C.D.MANANTIAL PROMESAS - A",
+     "visitante": "CD RECREATIVO ALCOSA",
+     "resultado": null,
+     "lugar": "CD. SENDAI F7 - CESPED 2-C/ HIROSHIMA,S/N (SEVILLA ESTE)",
+     "obs": "SABADO",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-03-12",
+     "hora": "19:00",
+     "local": "CF.POLIDEPORTIVO ALCOSA",
+     "visitante": "CD MADRE DE DIOS B",
+     "resultado": null,
+     "lugar": "C.D. ALCOSA F7 CESPED PISTA C-AVDA. SENECA S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-03-12",
+     "hora": "19:00",
+     "local": "ANDALUCIA ESTE CF",
+     "visitante": "UD.MANANTIAL",
+     "resultado": null,
+     "lugar": "CD. ANDALUCIA ESTE F7 PISTA 1-C/ MIGUEL RIOS SARMIENTO,S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    },
+    {
+     "fecha": "2027-03-12",
+     "hora": "20:00",
+     "local": "CD MADRE DE DIOS",
+     "visitante": "C.D.MANANTIAL PROMESAS - B",
+     "resultado": null,
+     "lugar": "CD. ALCOSA F7 CESPED PISTA 3-AVDA. SENECA, S/N",
+     "obs": "VIERNES",
+     "obsResultado": null
+    }
+   ]
+  }
+ ],
+ "clasificacion": [
+  {
+   "pos": 1,
+   "equipo": "CF.POLIDEPORTIVO ALCOSA",
+   "pj": 2,
+   "pg": 2,
+   "pe": 0,
+   "pp": 0,
+   "pnp": 0,
+   "tf": 5,
+   "tc": 2,
+   "puntos": 6
+  },
+  {
+   "pos": 2,
+   "equipo": "ANDALUCIA ESTE CF",
+   "pj": 2,
+   "pg": 1,
+   "pe": 1,
+   "pp": 0,
+   "pnp": 0,
+   "tf": 10,
+   "tc": 8,
+   "puntos": 4
+  },
+  {
+   "pos": 3,
+   "equipo": "CD MADRE DE DIOS",
+   "pj": 2,
+   "pg": 1,
+   "pe": 0,
+   "pp": 1,
+   "pnp": 0,
+   "tf": 8,
+   "tc": 3,
+   "puntos": 3
+  },
+  {
+   "pos": 4,
+   "equipo": "CD RECREATIVO ALCOSA",
+   "pj": 2,
+   "pg": 1,
+   "pe": 0,
+   "pp": 1,
+   "pnp": 0,
+   "tf": 8,
+   "tc": 9,
+   "puntos": 3
+  },
+  {
+   "pos": 5,
+   "equipo": "CD MADRE DE DIOS B",
+   "pj": 2,
+   "pg": 1,
+   "pe": 0,
+   "pp": 1,
+   "pnp": 0,
+   "tf": 12,
+   "tc": 5,
+   "puntos": 3
+  },
+  {
+   "pos": 6,
+   "equipo": "C.D.MANANTIAL PROMESAS - A",
+   "pj": 2,
+   "pg": 1,
+   "pe": 0,
+   "pp": 1,
+   "pnp": 0,
+   "tf": 6,
+   "tc": 11,
+   "puntos": 3
+  },
+  {
+   "pos": 7,
+   "equipo": "C.D.MANANTIAL PROMESAS - B",
+   "pj": 2,
+   "pg": 0,
+   "pe": 1,
+   "pp": 1,
+   "pnp": 0,
+   "tf": 9,
+   "tc": 10,
+   "puntos": 1
+  },
+  {
+   "pos": 8,
+   "equipo": "UD.MANANTIAL",
+   "pj": 2,
+   "pg": 0,
+   "pe": 0,
+   "pp": 2,
+   "pnp": 0,
+   "tf": 1,
+   "tc": 11,
+   "puntos": 0
+  }
+ ]
+}
