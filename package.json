@@ -1,0 +1,7 @@
+{
+  "name": "jdm-resultados",
+  "private": true,
+  "type": "module",
+  "scripts": { "scrape": "node scripts/scrape.mjs" },
+  "dependencies": { "linkedom": "^0.18.5" }
+}
