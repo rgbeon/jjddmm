@@ -28,7 +28,10 @@ async function consulta(params) {
       await sleep(800); // ser amables con el servidor del IMD
       return document.body;
     } catch (e) {
-      if (intento >= 3) throw e;
+      if (intento >= 3) {
+        const c = e.cause;
+        throw new Error(`${e.message}${c ? ` · causa: ${c.code || ''} ${c.message || c}` : ''}`);
+      }
       await sleep(3000 * intento);
     }
   }
