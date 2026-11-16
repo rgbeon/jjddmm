@@ -10,7 +10,6 @@ on:
   workflow_dispatch: {}          # botón "Run workflow" para lanzarlo a mano
   push:
     branches: [main]
-    paths-ignore: ['site/data/**']
 
 permissions:
   contents: write
@@ -36,10 +35,15 @@ jobs:
 
       - run: npm install --no-audit --no-fund
 
+      # Si el IMD no responde (bloquea IPs de fuera de España), se publica igualmente
+      # la web con los últimos datos guardados en el repo.
       - name: Consultar IMD
+        id: scrape
+        continue-on-error: true
         run: npm run scrape
 
       - name: Guardar datos en el repo (historial de cambios)
+        if: steps.scrape.outcome == 'success'
         run: |
           git config user.name  "jdm-bot"
           git config user.email "jdm-bot@users.noreply.github.com"
