@@ -2,11 +2,8 @@ name: Actualizar resultados
 
 on:
   schedule:
-    # Horas en UTC (Sevilla = UTC+1 en invierno, UTC+2 en verano)
-    - cron: '17 6 * * *'        # todos los días ~07:17 (cambios de horario/campo)
-    - cron: '47 21 * * 5'       # viernes noche, tras los partidos de tarde
-    - cron: '47 13,21 * * 6,0'  # sábado y domingo, mediodía y noche
-    - cron: '17 18 * * 4'       # jueves tarde: resultados definitivos tras comités
+    # Lunes a las 10:00 en Sevilla en invierno (09:00 UTC). En verano (UTC+2) serían las 11:00.
+    - cron: '0 9 * * 1'
   workflow_dispatch: {}          # botón "Run workflow" para lanzarlo a mano
   push:
     branches: [main]
