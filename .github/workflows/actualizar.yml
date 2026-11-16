@@ -1,0 +1,55 @@
+name: Actualizar resultados
+
+on:
+  schedule:
+    # Horas en UTC (Sevilla = UTC+1 en invierno, UTC+2 en verano)
+    - cron: '17 6 * * *'        # todos los días ~07:17 (cambios de horario/campo)
+    - cron: '47 21 * * 5'       # viernes noche, tras los partidos de tarde
+    - cron: '47 13,21 * * 6,0'  # sábado y domingo, mediodía y noche
+    - cron: '17 18 * * 4'       # jueves tarde: resultados definitivos tras comités
+  workflow_dispatch: {}          # botón "Run workflow" para lanzarlo a mano
+  push:
+    branches: [main]
+    paths-ignore: ['site/data/**']
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: actualizar
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm install --no-audit --no-fund
+
+      - name: Consultar IMD
+        run: npm run scrape
+
+      - name: Guardar datos en el repo (historial de cambios)
+        run: |
+          git config user.name  "jdm-bot"
+          git config user.email "jdm-bot@users.noreply.github.com"
+          git add site/data
+          git diff --cached --quiet || git commit -m "Resultados $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push || true
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
